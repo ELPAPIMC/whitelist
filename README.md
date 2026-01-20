@@ -1,1 +1,3 @@
 # whitelist
+
+my scripts whitelist
